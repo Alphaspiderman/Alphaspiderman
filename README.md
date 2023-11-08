@@ -2,7 +2,9 @@
 
 I am Alphaspiderman, 
 
-I know the public repositories are lacking, but that is mostly because I can not make my main project public.
+In 2022 and Early 2023, I spent all of my time on a private project which I can not make publilc. 
+
+Now, I aim to make things that are open source and can be used by others. 
 
 <p align="center">
   <a href="https://alphaspiderman.dev/">
