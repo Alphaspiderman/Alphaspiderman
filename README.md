@@ -2,7 +2,7 @@
 
 I am Alphaspiderman, 
 
-I know the public repositories are lacking, but that is mostly because I can not make my main project public.
+Welcome to my humble GitHub Profile.
 
 <p align="center">
   <a href="https://alphaspiderman.dev/">
@@ -12,9 +12,9 @@ I know the public repositories are lacking, but that is mostly because I can not
 </p>
 
 <br/>
-
 <div align="center">
 
+## Skills
 #### Languages (Proper)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
