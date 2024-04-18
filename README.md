@@ -4,12 +4,20 @@ I am Alphaspiderman,
 
 Welcome to my humble GitHub Profile.
 
+I work on a few things here and there, you can also find the programs I did in labs for my BTech on here as well.
+
 <p align="center">
   <a href="https://alphaspiderman.dev/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Alphaspiderman&show_icons=true&theme=dark&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Alphaspiderman&theme=dark&hide_border=true" />
   </a>
 </p>
+
+## Some interesting repositories
+
+HealthSync (Hack-a-thon Submission) - https://github.com/abhigyantrips/hacknxs
+
+Laundry App - https://github.com/Alphaspiderman/Laundry-Tracker
 
 <br/>
 <div align="center">
