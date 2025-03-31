@@ -8,10 +8,8 @@ I work on a few things here and there, mainly on backend with Python (using Sani
 
 <div>
   <a href="https://alphaspiderman.dev/">
-    <div style="display: flex; justify-content: space-between; width: 100%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Alphaspiderman&show_icons=true&theme=dark&hide_border=true&hide=stars&card_width=495" style="width: 49.5%;" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alphaspiderman&theme=dark&hide_border=true" style="width: 49.5%;" />
-    </div>
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Alphaspiderman&show_icons=true&theme=dark&hide_border=true&hide=stars" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Alphaspiderman&theme=dark&hide_border=true" />
   </a>
 </div>
 <br/>
@@ -84,3 +82,7 @@ I work on a few things here and there, mainly on backend with Python (using Sani
 ## Can I get a trophy?
 
 ![](https://github-profile-trophy.vercel.app/?username=Alphaspiderman&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+## Comit History Disclaimer
+I try to keep my contribution graph green by committing daily (small or big). 
+All my commits are in public repos, so feel free to check them out!
