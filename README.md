@@ -83,6 +83,6 @@ I work on a few things here and there, mainly on backend with Python (using Sani
 
 ![](https://github-profile-trophy.vercel.app/?username=Alphaspiderman&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-## Comit History Disclaimer
+## Commit History Disclaimer
 I try to keep my contribution graph green by committing daily (small or big). 
 All my commits are in public repos, so feel free to check them out!
