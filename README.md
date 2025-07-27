@@ -9,7 +9,7 @@ I work on a few things here and there, mainly on backend with Python (using Sani
 <div>
   <a href="https://alphaspiderman.dev/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Alphaspiderman&show_icons=true&theme=dark&hide_border=true&hide=stars" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Alphaspiderman&theme=dark&hide_border=true" />
+    <img width="49.5%" src="https://nirzak-streak-stats.vercel.app/?user=Alphaspiderman&theme=dark&hide_border=true" />
   </a>
 </div>
 <br/>
