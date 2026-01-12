@@ -8,16 +8,16 @@ I work on a few things here and there, mainly on backend with Python (using Sani
 
 <div>
   <a href="https://alphaspiderman.dev/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Alphaspiderman&show_icons=true&theme=dark&hide_border=true&hide=stars" />
-    <img width="49.5%" src="https://nirzak-streak-stats.vercel.app/?user=Alphaspiderman&theme=dark&hide_border=true" />
+    <img width="46.45%" src="https://stats.alphaspiderman.dev/github/stats?show_icons=true&theme=dark&hide_border=true&hide=stars" />
+    <img width="52.55%" src="https://stats.alphaspiderman.dev/github/streak?theme=dark&hide_border=true" />
   </a>
 </div>
-<br/>
+<!-- <br/>
 <div>
   <a href="https://alphaspiderman.dev/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphaspiderman&theme=dark&show_icons=true&hide_border=true&layout=donut&langs_count=10&size_weight=0.2&count_weight=0.8" />
   </a>
-</div>
+</div> -->
 
 <br/>
 <div>
@@ -81,8 +81,9 @@ I work on a few things here and there, mainly on backend with Python (using Sani
 
 ## Can I get a trophy?
 
-![](https://github-profile-trophy.vercel.app/?username=Alphaspiderman&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://trophy.alphaspiderman.dev/?username=Alphaspiderman&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ## Commit History Disclaimer
-I try to keep my contribution graph green by committing daily (small or big). 
+
+I try to keep my contribution graph green by committing daily (small or big).
 All my commits are in public repos, so feel free to check them out!
